@@ -8,9 +8,9 @@ How to run it on your desktop
 
 ## Wishlist
 
-[] All kinds of web securities
-[] Proper Architecture
-[] Proper mongoose code
+- [ ] All kinds of web securities
+- [ ] Proper Architecture
+- [ ] Proper mongoose code
 
 ## Docs helped
 
